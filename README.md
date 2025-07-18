@@ -23,3 +23,4 @@ KIKI 2.0 – Carrito Autónomo con Inteligencia Artificial Superando desafíos c
 Integración con nuevas tecnologías de sensores
 
 Participación en competencias regionales y nacionales
+https://github.com/JARCVIS1/FOTOS-2025
