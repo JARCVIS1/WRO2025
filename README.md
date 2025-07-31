@@ -28,5 +28,7 @@ Participación en competencias regionales y nacionales
 Vista nuestros repositorios:
 
 https://github.com/JARCVIS1/FOTOS-2025
+
 https://github.com/JARCVIS1/Gestion-Movilidad-Obstaculos
+
 https://github.com/JARCVIS1/Gestion_energia_y_sensores
